@@ -1,6 +1,6 @@
-<h1>Emperor Bob</h1>
-<p>Hello there, I'm a student developer pursuing Computer Science and Web Development.</p>
-<h2>Use</h2>
+# Emperor Bob
+Hello there, I'm a student developer pursuing Computer Science and Web Development.
+## Use
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![Scratch](https://img.shields.io/static/v1?style=for-the-badge&message=Scratch&color=4D97FF&logo=Scratch&logoColor=FFFFFF&label=)
@@ -21,5 +21,5 @@
 ![Krita](https://img.shields.io/static/v1?style=for-the-badge&message=Krita&color=222222&logo=Krita&logoColor=3BABFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Crunchyroll](https://img.shields.io/static/v1?style=for-the-badge&message=Crunchyroll&color=F47521&logo=Crunchyroll&logoColor=FFFFFF&label=)
-<h2>Contact</h2>
-<h3>emperorbob7@gmail.com</h3>
+## Contact
+#### emperorbob7@gmail.com
