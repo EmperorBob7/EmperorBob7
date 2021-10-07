@@ -22,4 +22,4 @@ Hello there, I'm a student developer pursuing Computer Science and Web Developme
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Crunchyroll](https://img.shields.io/static/v1?style=for-the-badge&message=Crunchyroll&color=F47521&logo=Crunchyroll&logoColor=FFFFFF&label=)
 ## Contact
-#### emperorbob7@gmail.com
+### emperorbob7@gmail.com
