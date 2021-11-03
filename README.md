@@ -21,5 +21,9 @@ Hello there, I'm a student developer pursuing Computer Science and Web Developme
 ![Krita](https://img.shields.io/static/v1?style=for-the-badge&message=Krita&color=222222&logo=Krita&logoColor=3BABFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Crunchyroll](https://img.shields.io/static/v1?style=for-the-badge&message=Crunchyroll&color=F47521&logo=Crunchyroll&logoColor=FFFFFF&label=)
+
+## Stats
+[![Emperor Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorBob7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 ### emperorbob7@gmail.com
