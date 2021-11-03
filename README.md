@@ -23,7 +23,7 @@ Hello there, I'm a student developer pursuing Computer Science and Web Developme
 ![Crunchyroll](https://img.shields.io/static/v1?style=for-the-badge&message=Crunchyroll&color=F47521&logo=Crunchyroll&logoColor=FFFFFF&label=)
 
 ## Stats
-[![Emperor Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorBob7&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Emperor Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorBob7&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 ### emperorbob7@gmail.com
