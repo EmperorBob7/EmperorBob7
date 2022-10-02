@@ -3,6 +3,7 @@ Hello there, I'm a student developer pursuing Computer Science and Web Developme
 
 ## Stats
 [![Emperor Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorBob7&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Codewar's](https://www.codewars.com/users/EmperorBob7Dav/badges/large)
 
 ## Contact
