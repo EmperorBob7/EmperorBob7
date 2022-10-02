@@ -1,5 +1,13 @@
 # Emperor Bob
 Hello there, I'm a student developer pursuing Computer Science and Web Development.
+
+## Stats
+[![Emperor Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorBob7&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Codewar's](https://www.codewars.com/users/EmperorBob7Dav/badges/large)
+
+## Contact
+### emperorbob7@gmail.com
+
 ## Use
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
@@ -21,9 +29,3 @@ Hello there, I'm a student developer pursuing Computer Science and Web Developme
 ![Krita](https://img.shields.io/static/v1?style=for-the-badge&message=Krita&color=222222&logo=Krita&logoColor=3BABFF&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Crunchyroll](https://img.shields.io/static/v1?style=for-the-badge&message=Crunchyroll&color=F47521&logo=Crunchyroll&logoColor=FFFFFF&label=)
-
-## Stats
-[![Emperor Bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmperorBob7&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact
-### emperorbob7@gmail.com
